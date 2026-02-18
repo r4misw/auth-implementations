@@ -30,6 +30,7 @@ uvicorn fastapi_oauth:app --port 8002 --reload
 ```
 
 **Guide complet de déploiement:** [DEPLOYMENT.md](DEPLOYMENT.md)
+**Guide de sécurité:** [SECURITY.md](SECURITY.md) - HTTPS, cryptage, bonnes pratiques
 
 ---
 
